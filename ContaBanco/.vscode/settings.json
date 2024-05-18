@@ -3,5 +3,34 @@
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
+    ],
+    "cSpell.words": [
+        "agencia",
+        "Agência",
+        "classe",
+        "Cliente",
+        "Conhecer",
+        "Consumir",
+        "conta",
+        "criada",
+        "criar",
+        "digitados",
+        "digite",
+        "disponível",
+        "está",
+        "Exibir",
+        "importar",
+        "linha",
+        "mensagem",
+        "nosso",
+        "número",
+        "obrigado",
+        "Obter",
+        "pela",
+        "quebra",
+        "saldo",
+        "saque",
+        "usuario",
+        "valores"
     ]
 }
